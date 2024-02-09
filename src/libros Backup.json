@@ -1,0 +1,16 @@
+[
+    {
+        "id": 0,
+        "titulo": "Don Quijote de la Mancha",
+        "autor": "Don Miguel de Cervantes",
+        "descripcion": "El libro relata las aventuras y desventuras de un hidalgo de 50 años llamado Alonso Quijano, quien decide ser un caballero andante como aquellos que aparecen en sus libros de caballerías favoritos.",
+        "portada": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Title_page_first_edition_Don_Quijote.jpg"
+    },
+    {
+        "id": 1,
+        "titulo": "El silmarillion",
+        "autor": "J.R.R Tolkien",
+        "descripcion": "Cuenta la historia de la Primera Edad, el antiguo drama al que se refieren los personajes de El Señor de los Anillos, y en el que algunos de ellos, como Elrond y Galadriel, tomaron parte.",
+        "portada": "https://i0.wp.com/elanillounico.com/wp-content/uploads/2017/07/El-Silmarillion-40-aniversario.jpg"
+    }
+]

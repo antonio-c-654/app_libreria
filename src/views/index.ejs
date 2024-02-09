@@ -1,0 +1,21 @@
+<%- include ('partials/header') %>
+
+
+    <div id="div_libros">
+            
+        <% for( let i = 0; i < datos.length; i++ ) { %>
+            <form method="post">
+                <div class="libro">
+                    <h4>Titulo: <%= datos[i].titulo %> </h4>
+                    <img src="<%= datos[i].portada %>" class="img">
+                    <h4>Autor: <%= datos[i].autor %> </h4>
+
+                    <button type="submit" name="borrar" value="<%= datos[i].id %>" class="botones">Borrar</button>
+                </div>
+            </form>
+        <% } %>
+
+    </div>
+
+
+<%- include ('partials/footer') %>
